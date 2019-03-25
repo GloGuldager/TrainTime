@@ -1,0 +1,33 @@
+
+.jumbotron {
+    margin-top: 20px;
+    background-image: url("../images/guldagerstation.png");
+    background-size: cover;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    border-style: solid;
+    border-color: #336633;
+    }
+      
+#train-header {
+  background-color: #336633;
+  color: white;
+}
+
+.card-header {
+  background-color: #336633 !important;
+  color: white;
+}
+
+#train-table th,td {
+    display: inline-block;
+    width: 20%;
+}
+
+#add-train-btn {
+  background-color: #336633;
+  color: white;
+}
+
+
